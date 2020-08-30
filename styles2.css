@@ -789,7 +789,7 @@ box-sizing: border-box;
         grid-column: span 2;
     }
 }
-@media screen and (max-width: 321px)
+@media screen and (max-width: 460px)
 {
     .wrapper
     {
