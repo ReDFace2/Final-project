@@ -675,7 +675,7 @@ box-sizing: border-box;
     }
     
 }
-@media screen and (max-width: 321px)
+@media screen and (max-width: 460px)
 {
     .wrapper
     {
