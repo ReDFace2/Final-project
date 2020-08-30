@@ -454,7 +454,7 @@ box-sizing: border-box;
     position: relative;
     min-height: 364px;
     width: 100%;
-    background: url(../img/phk-intro.jpg) no-repeat center;
+    background: url(phk-intro.jpg) no-repeat center;
     background-size: cover;
     margin-top: 72px;
     z-index: 4;
